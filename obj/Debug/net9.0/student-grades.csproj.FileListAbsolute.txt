@@ -1,0 +1,15 @@
+/Users/djreyaboyd/Projects/student-grades/bin/Debug/net9.0/student-grades
+/Users/djreyaboyd/Projects/student-grades/bin/Debug/net9.0/student-grades.deps.json
+/Users/djreyaboyd/Projects/student-grades/bin/Debug/net9.0/student-grades.runtimeconfig.json
+/Users/djreyaboyd/Projects/student-grades/bin/Debug/net9.0/student-grades.dll
+/Users/djreyaboyd/Projects/student-grades/bin/Debug/net9.0/student-grades.pdb
+/Users/djreyaboyd/Projects/student-grades/obj/Debug/net9.0/student-grades.GeneratedMSBuildEditorConfig.editorconfig
+/Users/djreyaboyd/Projects/student-grades/obj/Debug/net9.0/student-grades.AssemblyInfoInputs.cache
+/Users/djreyaboyd/Projects/student-grades/obj/Debug/net9.0/student-grades.AssemblyInfo.cs
+/Users/djreyaboyd/Projects/student-grades/obj/Debug/net9.0/student-grades.csproj.CoreCompileInputs.cache
+/Users/djreyaboyd/Projects/student-grades/obj/Debug/net9.0/student-grades.sourcelink.json
+/Users/djreyaboyd/Projects/student-grades/obj/Debug/net9.0/student-grades.dll
+/Users/djreyaboyd/Projects/student-grades/obj/Debug/net9.0/refint/student-grades.dll
+/Users/djreyaboyd/Projects/student-grades/obj/Debug/net9.0/student-grades.pdb
+/Users/djreyaboyd/Projects/student-grades/obj/Debug/net9.0/student-grades.genruntimeconfig.cache
+/Users/djreyaboyd/Projects/student-grades/obj/Debug/net9.0/ref/student-grades.dll
