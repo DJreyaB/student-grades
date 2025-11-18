@@ -48,7 +48,7 @@ decimal zahirahScore = (decimal)zahirahSum / currentAssignments;
 decimal jeongScore = (decimal)sophiaSum / currentAssignments;
 
 // print average grades 
-Console.WriteLine("Student\t\tGrades");
+Console.WriteLine("Student\t\tGrade");
 Console.WriteLine($"Sophia:\t\t {sophiaScore} \tA");
 Console.WriteLine($"Nicolas:\t {nicolasScore} \tB");
 Console.WriteLine($"Zahirah:\t {zahirahScore} \tB");
